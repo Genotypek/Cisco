@@ -1,0 +1,21 @@
+Jaka jest zaleta urz¹dzeñ sieciowych wykorzystuj¹cych otwarte standardy protoko³ów?€Host klienta i serwer, pracuj¹ce z ró¿nymi systemami operacyjnymi, bêd¹ mog³y z powodzeniem wymieniaæ dane.
+Które zdanie prawid³owo opisuje proces enkapsulacji TCP/IP gdy komputer wysy³a dane do sieci?€Segmenty wysy³ane s¹ z warstwy transportowej do warstwy Internetu.
+Co to s¹ protoko³y firmowe (w³asnoœciowe)?€protoko³y opracowane przez organizacje, które maj¹ kontrolê nad ich definiowaniem i eksploatacj¹.
+Które zdanie opisuje funkcjê protoko³u ARP (Address Resolution Protocol)?€ARP u¿ywany jest do znajdowania adresu MAC dowolnego hosta w sieci lokalnej.
+Klient wysy³a ¿¹danie strony internetowej do serwera WWW. Z punktu widzenia klienta, jaka jest poprawna kolejnoœæ stosu protoko³ów, które u¿yte s¹ do przygotowania ¿¹dania transmisji?€HTTP, TCP, IP, Ethernet
+W której warstwie modelu OSI enkapsulowany jest adres logiczny?€warstwa sieci
+Jak¹ funkcjê pe³ni warstwa 4 modelu OSI?€opisanie uporz¹dkowanego i niezawodnego dostarczania danych pomiêdzy Ÿród³em a celem
+Która z metod mo¿e byæ zastosowana przez dwa komputery aby zapewniæ, ¿eby pakiety nie zosta³y utracone ze wzglêdu na zbyt szybkie wysy³anie du¿ej iloœci danych?€kontrola przep³ywu
+Na podstawie jakiego adresu karta sieciowa decyduje czy przyj¹æ otrzyman¹ ramkê?€docelowy adres MAC
+Co jest zalet¹ stosowania modelu warstwowego w komunikacji sieciowej?€sprzyjanie konkurencji miêdzy dostawcami urz¹dzeñ i oprogramowania poprzez wymuszanie kompatybilnoœci ich produktów
+Otwórz zadanie w Packet Tracer. Wykonuj polecenia zgodnie z instrukcj¹, a nastêpnie odpowiedz na pytanie. Na podstawie skonfigurowanej sieci, który adres IP móg³by u¿yæ PC1 i PC2 jako adres bramy domyœlnej?€192.168.1.1
+Który adres zawiera unikalny adres hosta dla transmisji danych w warstwie Internetu?€adres logiczny
+Jakie jest ogólne okreœlenie, które stosowane jest do opisania elementu danych w ka¿dej warstwie modelu sieci?€jednostka danych protoko³u
+Który protokó³ odpowiedzialny jest za kontrolê rozmiaru i szybkoœci wymiany wiadomoœci HTTP miêdzy serwerem a klientem?€TCP
+Który format PDU stosowany jest, gdy odbierane s¹ bity z medium sieciowego przez kartê sieciow¹ hosta?€ramka
+U¿ytkownik przegl¹da dokument HTML umieszczony na serwerze WWW. Który protokó³ odpowiedzialny jest za dzielenie wiadomoœci na segmenty i zarz¹dzanie segmentami podczas bezpoœredniej komunikacji pomiêdzy serwerem a klientem WWW?€TCP
+Który standard IEEE umo¿liwia po³¹czenie bezprzewodowej karty sieciowej z bezprzewodowym punktem dostêpowym wyprodukowanym przez innego producenta?€802.11
+Komputer w danej sieci komunikuje siê z okreœlon¹ grup¹ komputerów. Jakiego typu jest to komunikacja?€multicast
+Jaki wp³yw na komunikacjê ma niepoprawne skonfigurowanie bramy domyœlnej?€Host mo¿e komunikowaæ siê z innymi hostami w lokalnej sieci, ale nie mo¿e komunikowaæ siê z hostami z innych sieci.
+Dopasuj opis do organizacji. (Nie wszystkie opcje zostan¹ u¿yte)€ISOC - Organizacja ta promuje otwarty rozwój, ewolucjê i korzystanie z internetu na ca³ym œwiecie.&ISO - Organizacja ta jest najwiêksz¹ organizacj¹ opracowuj¹c¹ miêdzynarodowe standardy na œwiecie dla szerokiej gamy produktów i us³ug. Znana jest m.in. z opracowania modelu OSI (Open Systems Interconnection).&IANA - Organizacja ta jest odpowiedzialna za nadzorowanie i zarz¹dzanie przydzia³em adresów IP, zarz¹dzanie nazwami domen i oznaczanie protoko³ów.
+Które stwierdzenie o modelu TCP/IP i OSI jest prawdziwe?€Warstwa transportowa TCP/IP i warstwa 4 modelu OSI zapewnia podobne us³ugi i funkcje.

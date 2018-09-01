@@ -1,0 +1,21 @@
+Które dwa stwierdzenia na temat relacji miêdzy sieciami LAN i WAN s¹ prawdziwe? (Wybierz dwie odpowiedzi)€Sieci WAN ³¹cz¹ siê z sieciami LAN z mniejsz¹ przepustowoœci¹ ni¿ sieci LAN ³¹cz¹ce swoje urz¹dzenia koñcowe.&Sieci WAN s¹ zazwyczaj obs³ugiwane przez wielu dostawców us³ug internetowych, natomiast sieci LAN s¹ zazwyczaj obs³ugiwane przez pojedyncze organizacje lub osoby prywatne.
+Które dwa kryteria stosowane s¹ w celu wyboru medium transmisji danych? (Wybierz dwie odpowiedzi)€odleg³oœæ, na jak¹ dane medium mo¿e poprawnie transmitowaæ sygna³&œrodowisko, w którym medium transmisji ma byæ zainstalowane
+Które stwierdzenie opisuje sieæ wspieraj¹c¹ QoS?€Sieæ zapewnia przewidywalne poziomy us³ug dla ró¿nych rodzajów ruchu.
+Które trzy narzêdzia sieciowe zapewniaj¹ minimaln¹ wymagan¹ ochronê bezpieczeñstwa u¿ytkownikom domowym? (Wybierz trzy odpowiedzi)€oprogramowanie antywirusowe&oprogramowanie antyspyware&zapora
+Wype³nij puste miejsce. Akronim [____] odnosi siê do tendencji, w której u¿ytkownicy koñcowi maj¹ mo¿liwoœci u¿ywania w³asnych urz¹dzeñ aby mieæ dostêp do sieci i zasobów firmy.€byod
+Dopasuj ka¿d¹ definicjê do odpowiadaj¹cego celu zabezpieczenia. (Nie wszystkie opcje zostan¹ u¿yte)€zapewnienie poufnoœci - tylko po¿¹dani odbiorny mog¹ uzyskaæ dostêp i odczytaæ dane&zachowanie integralnoœci - zapewnienie, ¿e informacja nie zosta³a zmieniona podczas transmisji&zapewnienie dostêpnoœci - zapewnienie na czas i w sposób niezawodny dostêpu do danych
+Który opis poprawnie definiuje sieæ konwergentn¹?€pojedynczy kana³ sieciowy zdolny do dostarczania wielu form komunikacji
+Jakie s¹ dwie funkcje urz¹dzeñ poœrednicz¹cych w sieci? (Wybierz dwie odpowiedzi)€Kieruj¹ dane alternatywnymi œcie¿kami w sytuacji awarii ³¹czy.&Filtruj¹ przep³yw danych, na podstawie ustawionych zabezpieczeñ.
+Czym charakteryzuj¹ siê sieci z komutacj¹ ³¹czy?€Jeœli wszystkie ³¹cza s¹ zajête, to nowe po³¹czenia nie mog¹ byæ tworzone.
+Który z obszarów bezpieczeñstwa sieci jest praktyk¹ wspieraj¹c¹ wymaganie silnych i z³o¿onych hase³?€zapewnienie poufnoœci danych
+Do jakiego typu sieci musi mieæ dostêp u¿ytkownik domowy, aby móc zrobiæ zakupy online?€Internet
+Które urz¹dzenie ustala œcie¿kê, któr¹ wiadomoœci powinny byæ przesy³ane przez intersieci?€router
+Które narzêdzie zapewnia komunikacjê audio i wideo w czasie rzeczywistym za poœrednictwem Internetu, dziêki któremu firmy mog¹ prowadziæ spotkania firmowe z uczestnikami z ró¿nych odleg³ych miejsc?€teleobecnoœæ
+Dopasuj formê komunikacji sieciowej do jej opisu. (Nie wszystkie opcje zostan¹ u¿yte)€interaktywne strony internetowe, na których ludzie tworz¹ i dziel¹ siê opracowanymi przez siebie treœciami z przyjació³mi i rodzin¹ - media spo³ecznoœciowe&strony WWW, które grupa ludzi mo¿e wspólnie edytowaæ i przegl¹daæ - wiki&forma komunikacji pozwalaj¹ca ludzion dostarczaæ swoje nagrania szerokiej publicznoœci - podcast&komunikacja w czasie rzeczywistym miêdzy dwoma lub wiêksz¹ iloœci¹ osób - komunikator internetowy
+https://assessment.netacad.net/assessment/images/i269859n1v1.png Przyjrzyj siê ilustracji. Który z zestawów urz¹dzeñ zawiera wy³¹cznie urz¹dzenia poœrednicz¹ce?€A, B, D, G
+Które wyra¿enie precyzyjnie definiuje termin "przeci¹¿enie"?€stan, w którym zapotrzebowanie na zasoby sieciowe przewy¿sza dostêpn¹ pojemnoœæ sieci
+Który obszar sieci jest zazwyczaj przeprojektowany przez pracowników IT w zwi¹zku z przynoszeniem przez studentów w³asnych tabletów i smartfonów w celu uzyskania dostêpu do zasobów szkolnych?€bezprzewodowa sieæ LAN
+Które dwa rodzaje po³¹czeñ internetowych nie wymagaj¹ fizycznego pod³¹czenia okablowania do budynku? (Wybierz dwie odpowiedzi)€po³¹czenie satelitarne&po³¹czenie komórkowe
+Które stwierdzenie opisuje cechê przetwarzania w chmurze?€Dostêp do aplikacji przez Internet za poœrednictwem subskrypcji.
+Które dwa rozwi¹zania zawsze zapewniaj¹ ci¹g³e i o wysokiej przepustowoœci po³¹czenie komputerów w sieci LAN? (Wybierz dwie odpowiedzi)€DSL&technologia kablowa
+Dopasuj poszczególne opisy do odpowiedniego typu ³¹cznoœci z Internetem. (Nie wszystkie opcje zostan¹ u¿yte)€DSL - rozdziela liniê dostêpu na trzy sygna³y&po³¹czenie telefoniczne dial-up - zazwyczaj ma bardzo ma³¹ szerokoœæ pasma&po³¹czenie satelitarne - nie nadaje siê na silnie zalesionych obszarach&kabel - wykorzystuje kabel koncentryczny jako medium transmisji
